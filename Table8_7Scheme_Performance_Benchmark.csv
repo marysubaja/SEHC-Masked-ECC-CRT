@@ -1,8 +1,0 @@
-Model,Encryption time (ms),Decryption time (ms),Total time (ms),Peak memory (KB)
-AES-256,0.036,0.004,0.04,0.871
-RSA-2048,0.052,0.516,0.568,1.279
-ECC-256 (ECDH baseline),0.113,0.084,0.197,1.263
-"ECC (No Mask, No CRT)",33.049,7.122,40.171,6.491
-Masked-ECC (No CRT),39.593,14.537,54.13,6.497
-ECC + CRT (No Masking),18.822,6.913,25.735,4.154
-Masked-ECC-CRT (Proposed),26.992,14.513,41.505,4.101
