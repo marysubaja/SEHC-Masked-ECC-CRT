@@ -12,7 +12,6 @@ SEHC-Masked-ECC-CRT/
 ├── README.md
 ├── sehc_pipeline_v4_OPTIMIZED.py
 ├── sehc_plot_data.pkl
-├── hda.csv
 ├── requirements.txt
 ├── .python-version
 │
