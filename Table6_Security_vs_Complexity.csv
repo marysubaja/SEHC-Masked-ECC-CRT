@@ -1,4 +1,0 @@
-Encryption Model,Key Size (bits),Encryption Time (ms),Computational Overhead,SPA Protection,DPA Protection
-AES (AES-256),256,3.82,Moderate,No,No
-RSA (RSA-2048),2048,9.64,High,No,No
-Masked ECC-CRT (Proposed),256,2.15,Low,Yes,Yes
