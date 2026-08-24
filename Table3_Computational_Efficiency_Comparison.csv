@@ -1,0 +1,4 @@
+Model,Computational Overhead,Energy Efficiency,Processing Speed,SPA Protection,DPA Protection,Real-Time Suitability
+AES (AES-256),Moderate,High,High,No,No,Good
+RSA (RSA-2048),High,Moderate,Low,No,No,Poor
+Masked ECC-CRT (Proposed),Low,Very High,Very High,Yes,Yes,Excellent
