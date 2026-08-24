@@ -1,9 +1,0 @@
-Security Metric,Value (%)
-SPA Bit-Recovery — Unprotected,100.0
-SPA Bit-Recovery — Proposed,49.8
-SPA Mitigation Accuracy,99.6
-DPA Bit-Recovery — Unprotected,100.0
-DPA Bit-Recovery — Proposed,50.89
-DPA Mitigation Accuracy,98.22
-Information Leakage Reduction,78.63
-Overall SPA+DPA Mitigation,98.91
