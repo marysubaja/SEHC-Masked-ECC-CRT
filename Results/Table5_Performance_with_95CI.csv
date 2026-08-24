@@ -1,0 +1,4 @@
+Encryption Model,Encryption Time (ms),Encryption CI (95%),Decryption Time (ms),Decryption CI (95%),Processing Time (ms),Processing CI (95%)
+AES (AES-256),3.82,"(3.45, 4.19)",2.41,"(2.18, 2.64)",6.23,"(5.81, 6.65)"
+RSA (RSA-2048),9.64,"(8.95, 10.33)",17.82,"(16.74, 18.90)",27.46,"(26.18, 28.74)"
+Masked ECC-CRT (Proposed),2.15,"(1.98, 2.32)",1.28,"(1.16, 1.40)",3.43,"(3.18, 3.68)"
