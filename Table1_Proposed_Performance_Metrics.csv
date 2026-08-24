@@ -1,8 +1,0 @@
-Metric,Value,Unit
-Encryption Time,2.15,ms
-Decryption Time,1.28,ms
-Processing Time,3.43,ms
-Encryption Delay,2.33,ms
-Decryption Delay,1.46,ms
-Throughput,145.82,Mbps
-Memory Usage,4.1,KB
